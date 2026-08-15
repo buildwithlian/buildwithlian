@@ -142,17 +142,6 @@ Eksperimen script terkait akses dokumen di platform Scribd.
 > https://github-readme-stats.vercel.app/api/pin/?username=buildwithlian&repo=osint-tok&theme=chartreuse-dark
 > ```
 
-<br/>
-
-## 🐍 `> contribution.snake`
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/buildwithlian/buildwithlian/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-</div>
-
-> ✏️ **Aktifkan animasi ular:** tambahkan GitHub Action `Platane/snk` di repo `buildwithlian/buildwithlian` (buat `.github/workflows/snake.yml`). Setelah Action jalan sekali, SVG di atas otomatis muncul dari histori kontribusimu.
-
-<br/>
 
 ## 📡 `> connect.me`
 

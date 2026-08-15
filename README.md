@@ -68,23 +68,6 @@ status:      🟢 Open to collaboration
 
 </div>
 
-> ✏️ **Catatan:** Karena GitHub membatasi akses otomatis ke daftar repo lengkap, tabel di atas hanya memuat repo yang berhasil ditemukan. Tambahkan proyek terbaikmu secara manual dengan format yang sama, atau ganti dengan widget pinned-repo di bawah ini (otomatis menampilkan repo yang kamu *pin* di GitHub):
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=buildwithlian&repo=osint-tok&theme=tokyonight&hide_border=true" alt="pinned repo 1"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=buildwithlian&repo=CVE-2021-24917&theme=tokyonight&hide_border=true" alt="pinned repo 2"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/buildwithlian/buildwithlian/output/github-contribution-grid-snake.svg" alt="snake animation" width="90%"/>
-</div>
-
-> ✏️ **Cara mengaktifkan animasi ular ini:** tambahkan GitHub Action `Platane/snk` di repo profil kamu (`buildwithlian/buildwithlian`). Ini akan otomatis menghasilkan file SVG di atas dari histori kontribusimu. Panduan singkat: buat file `.github/workflows/snake.yml` lalu commit — file SVG akan ter-generate otomatis tiap hari.
-
 ---
 
 ## 📈 Trophy Showcase

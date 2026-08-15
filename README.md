@@ -1,92 +1,168 @@
 <div align="center">
 
-<!-- Header animasi tulisan -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Lian+%F0%9F%91%8B;Security+%26+OSINT+Enthusiast;Building+Tools+That+Solve+Problems;Welcome+to+my+GitHub+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=buildwithlian&fontSize=70&fontColor=00FF9C&animation=twinkling&fontAlignY=35&desc=%3C%20Security%20Researcher%20%2F%2F%20OSINT%20%2F%2F%20Tool%20Builder%20%3E&descAlignY=55&descAlign=50&descSize=20"/>
 
-<!-- Wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=buildwithlian&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Tool%20Builder%20%7C%20Tech%20Explorer&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=root%40buildwithlian%3A~%24+whoami;%3E+Building+tools+that+dig+deeper;%3E+Turning+curiosity+into+code;%3E+OSINT+%7C+Automation+%7C+Security" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF9C?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/github/followers/buildwithlian?style=for-the-badge&label=FOLLOWERS&labelColor=0d1117&color=00FF9C"/>
+<img src="https://komarev.com/ghpvc/?username=buildwithlian&style=for-the-badge&label=PROFILE+VIEWS&color=00FF9C&labelColor=0d1117"/>
 
 </div>
 
-<p align="center">
-  <a href="https://github.com/buildwithlian">
-    <img src="https://komarev.com/ghpvc/?username=buildwithlian&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-  <img src="https://img.shields.io/github/followers/buildwithlian?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="status" />
-</p>
+<br/>
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
----
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%" height="4">
 
-## 👨‍💻 Tentang Saya
+<br/>
 
-```yaml
-nama:        Lian
-username:    buildwithlian
-peran:       Developer & Tool Builder
-fokus:       OSINT, Security Research, Automation Scripts
-motto:       "Build with purpose, break with curiosity."
-lokasi:      🌍 Earth
-status:      🟢 Open to collaboration
+## ⚡ `> system.info`
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+```ansi
+[38;5;46m┌─[ USER PROFILE ]──────────────────┐[0m
+[38;5;46m│[0m  alias      : buildwithlian
+[38;5;46m│[0m  role       : Developer / Toolsmith
+[38;5;46m│[0m  focus      : OSINT · Automation · Sec
+[38;5;46m│[0m  loadout    : Python · Bash · JS
+[38;5;46m│[0m  mindset    : curious, relentless, sharp
+[38;5;46m│[0m  status     : 🟢 open to collab
+[38;5;46m└────────────────────────────────────┘[0m
 ```
 
+</td>
+<td width="50%" valign="top">
 
----
+```ansi
+[38;5;46m┌─[ NOW.EXE ]───────────────────────┐[0m
+[38;5;46m│[0m  🔭  building OSINT tooling
+[38;5;46m│[0m  🌱  leveling up in security research
+[38;5;46m│[0m  💬  ask me about recon & automation
+[38;5;46m│[0m  ⚡  fun fact: automates the boring stuff
+[38;5;46m└────────────────────────────────────┘[0m
+```
 
-## 🛠️ Tech Stack & Tools
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,linux,bash,docker,vscode&perline=10" alt="tech stack" />
-</p>
+<br/>
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Proyek Unggulan
+## 🧬 `> tech.stack`
 
 <div align="center">
 
-| Repository | Deskripsi | Bahasa |
-|---|---|---|
-| 🔎 [**osint-tok**](https://github.com/buildwithlian/osint-tok) | Tool OSINT untuk mengumpulkan metadata publik akun TikTok (nama profil, followers, bio, dll) | Python |
-| 🧩 [**CVE-2021-24917**](https://github.com/buildwithlian/CVE-2021-24917) | Riset & dokumentasi terkait celah keamanan CVE-2021-24917 | — |
-| ⚙️ [**Scribd-bypass**](https://github.com/buildwithlian/Scribd-bypass) | Eksperimen script terkait akses dokumen Scribd | — |
+<img src="https://skillicons.dev/icons?i=python,js,bash,linux,git,github,docker,vscode,html,css,mysql,regex&perline=6" />
+
+<br/><br/>
+
+![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=00FF9C)
+![Bash](https://img.shields.io/badge/-Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=00FF9C)
+![Linux](https://img.shields.io/badge/-Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00FF9C)
+![Git](https://img.shields.io/badge/-Git-0d1117?style=for-the-badge&logo=git&logoColor=00FF9C)
+![Docker](https://img.shields.io/badge/-Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00FF9C)
+![VSCode](https://img.shields.io/badge/-VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=00FF9C)
 
 </div>
 
----
+<br/>
 
-## 📈 Trophy Showcase
+## 📊 `> stats.render`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=buildwithlian&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=buildwithlian&show_icons=true&count_private=true&hide_border=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=buildwithlian&hide_border=true&theme=highcontrast&background=0d1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C"/>
 </div>
-
----
-
-## 🤝 Mari Terhubung
-
-<p align="center">
-  Tertarik berkolaborasi, punya pertanyaan, atau sekadar mau say hi?<br/>
-  Jangan ragu untuk menghubungi saya lewat channel di atas! 🚀
-</p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildwithlian&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9"/>
 </div>
 
-<p align="center"><i>⭐ Jangan lupa kasih star kalau kamu suka salah satu repo saya!</i></p>
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=buildwithlian&theme=react-dark&bg_color=0d1117&color=00FF9C&line=00FF9C&point=ffffff&hide_border=true"/>
+</div>
+
+<br/>
+
+## 🏆 `> achievements.log`
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=buildwithlian&theme=algolia&no-frame=true&no-bg=true&row=1&column=7"/>
+</div>
+
+<br/>
+
+## 🚀 `> featured.projects`
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+### 🔎 osint-tok
+Tool OSINT untuk mengumpulkan metadata publik dari akun TikTok — profil, followers, bio, dan lainnya.
+
+`Python`
+
+[![Repo](https://img.shields.io/badge/View-Repo-00FF9C?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/buildwithlian/osint-tok)
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🧩 CVE-2021-24917
+Dokumentasi & riset seputar celah keamanan CVE-2021-24917.
+
+`Security Research`
+
+[![Repo](https://img.shields.io/badge/View-Repo-00FF9C?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/buildwithlian/CVE-2021-24917)
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### ⚙️ Scribd-bypass
+Eksperimen script terkait akses dokumen di platform Scribd.
+
+`Automation`
+
+[![Repo](https://img.shields.io/badge/View-Repo-00FF9C?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/buildwithlian/Scribd-bypass)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
+<div align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=buildwithlian&repo=osint-tok&hide_border=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=buildwithlian&repo=CVE-2021-24917&hide_border=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9"/>
+</div>
+
+<br/>
+
+## 📡 `> connect.me`
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=00FF9C)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00FF9C)](#)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF9C)](#)
+[![Website](https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=firefox&logoColor=00FF9C)](#)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer"/>
+
+<sub>⭐ <b>Star</b> repo favoritmu, dan sampai jumpa di baris kode berikutnya.</sub>
+
+</div>

@@ -21,11 +21,6 @@
   <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-<p align="center">
-  <sub>✏️ Ganti link sosial media di atas dengan link kamu sendiri (klik tag <code>&lt;a href="#"&gt;</code> di kode markdown).</sub>
-</p>
-
 ---
 
 ## 👨‍💻 Tentang Saya
@@ -40,7 +35,6 @@ lokasi:      🌍 Earth
 status:      🟢 Open to collaboration
 ```
 
-> ✏️ **Catatan:** Bagian di atas adalah placeholder. Silakan sesuaikan dengan bio, lokasi, dan minat kamu yang sebenarnya.
 
 ---
 
@@ -58,23 +52,6 @@ status:      🟢 Open to collaboration
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=buildwithlian&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=buildwithlian&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildwithlian&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=buildwithlian&theme=tokyo-night&hide_border=true" alt="activity graph" width="90%"/>
 </div>
 
 ---

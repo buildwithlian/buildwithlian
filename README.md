@@ -92,7 +92,7 @@
 ## 🏆 `> achievements.log`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=buildwithlian&theme=algolia&no-frame=true&no-bg=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=buildwithlian&theme=onedark&no-frame=true&row=1&column=7"/>
 </div>
 
 <br/>
@@ -138,11 +138,19 @@ Eksperimen script terkait akses dokumen di platform Scribd.
 
 </div>
 
+> ```
+> https://github-readme-stats.vercel.app/api/pin/?username=buildwithlian&repo=osint-tok&theme=chartreuse-dark
+> ```
+
+<br/>
+
+## 🐍 `> contribution.snake`
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=buildwithlian&repo=osint-tok&hide_border=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=buildwithlian&repo=CVE-2021-24917&hide_border=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9"/>
+  <img src="https://raw.githubusercontent.com/buildwithlian/buildwithlian/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </div>
+
+> ✏️ **Aktifkan animasi ular:** tambahkan GitHub Action `Platane/snk` di repo `buildwithlian/buildwithlian` (buat `.github/workflows/snake.yml`). Setelah Action jalan sekali, SVG di atas otomatis muncul dari histori kontribusimu.
 
 <br/>
 
@@ -150,10 +158,10 @@ Eksperimen script terkait akses dokumen di platform Scribd.
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=00FF9C)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00FF9C)](#)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF9C)](#)
-[![Website](https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=firefox&logoColor=00FF9C)](#)
+[![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=00FF9C)](https://t.me/username_kamu)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00FF9C)](https://instagram.com/username_kamu)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF9C)](mailto:emailkamu@gmail.com)
+[![Website](https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=firefox&logoColor=00FF9C)](https://websitekamu.com)
 
 </div>
 
